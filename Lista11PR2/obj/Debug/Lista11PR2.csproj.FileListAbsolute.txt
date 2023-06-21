@@ -1,0 +1,8 @@
+D:\pr2\programs\Lista11PR2\Lista11PR2\bin\Debug\Lista11PR2.exe.config
+D:\pr2\programs\Lista11PR2\Lista11PR2\bin\Debug\Lista11PR2.exe
+D:\pr2\programs\Lista11PR2\Lista11PR2\bin\Debug\Lista11PR2.pdb
+D:\pr2\programs\Lista11PR2\Lista11PR2\obj\Debug\Lista11PR2.csproj.AssemblyReference.cache
+D:\pr2\programs\Lista11PR2\Lista11PR2\obj\Debug\Lista11PR2.csproj.SuggestedBindingRedirects.cache
+D:\pr2\programs\Lista11PR2\Lista11PR2\obj\Debug\Lista11PR2.csproj.CoreCompileInputs.cache
+D:\pr2\programs\Lista11PR2\Lista11PR2\obj\Debug\Lista11PR2.exe
+D:\pr2\programs\Lista11PR2\Lista11PR2\obj\Debug\Lista11PR2.pdb
